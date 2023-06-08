@@ -1,0 +1,25 @@
+-Proxima Centauri b: + Masa planetaria adecuada.
+-TRAPPIST 1e: + Se encuentra en la zona habitable + Existencia de atmósfera.
+-Kepler 452b: + Se encuentra en la zona habitable + Masa planetaria adecuada.
+-LHS 1140b: + Se encuentra en la zona habitable + Masa planetaria adecuada + Existencia de atmósfera.
+-Wolf 1061c: + Se encuentra en la zona habitable.
+-HD 85512b: + Se encuentra en la zona habitable + Masa planetaria adecuada.
+-Kepler 62f: + Se encuentra en la zona habitable.
+-Gliese 667Cc: + Se encuentra en la zona habitable + Masa planetaria adecuada +  Existencia de atmósfera.
+-Kepler 186f: + Se encuentra en la zona habitable.
+-Kepler 283c: + Se encuentra en la zona habitable.
+-Gliese 832c: + Se encuentra en la zona habitable + Presencia de agua +  Existencia de atmósfera.
+-Kepler 296e: + Se encuentra en la zona habitable + Masa planetaria adecuada.
+-Kapteyn b: + Se encuentra en la zona habitable + Masa planetaria adecuada.
+-Gliese 163c: + Se encuentra en la zona habitable.
+-Tau Ceti e: + Se encuentra en la zona habitable.
+-Kepler 438b: + Se encuentra en la zona habitable + Masa planetaria adecuada + Existencia de atmósfera.
+-Gliese 581g: + Se encuentra en la zona habitable + Presencia de agua.
+-Kepler 1229b: + Se encuentra en la zona habitable + Masa planetaria adecuada.
+-LHS 1140c: + Se encuentra en la zona habitable + Masa planetaria adecuada + Existencia de atmósfera.
+-Ross 128b: + Se encuentra en la zona habitable.
+-K2 18b: + Se encuentra en la zona habitable + Presencia de agua + Existencia de atmósfera.
+-Kepler 1652b: + Se encuentra en la zona habitable + Masa planetaria adecuada.
+-Kepler 174d: + Se encuentra en la zona habitable.
+-Kepler 283d: + Se encuentra en la zona habitable + Masa planetaria adecuada.
+-Kepler 443b: + Se encuentra en la zona habitable + Masa planetaria adecuada + Existencia de atmósfera.
